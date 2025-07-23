@@ -13,5 +13,5 @@ class ChaminduSenadheera {
     String academy = "SLIIT | BSc (Hons) IT";
     String mission = "Build scalable systems that think, learn, and adapt.";
     String researchFocus = "ML for vehicle + road condition intelligence";
-    String future = "Architect. Innovator. Leader.";
+    
 }
