@@ -1,15 +1,17 @@
-<h1 align="center">Hey there 👋 I'm Chamindu Senadheera</h1>
+<h1 align="center">⚙️ Chamindu Senadheera – Systems in Motion</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=00B8D4&center=true&vCenter=true&width=435&lines=Java+%7C+Spring+Boot+Developer;SLIIT+Undergraduate+%7C+Intern+Engineer;Building+Systems+that+Scale+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FFC6&center=true&vCenter=true&width=700&lines=Software+Engineer+(Spring+Boot+%2F+Java)+%F0%9F%92%BB;Tech+Architect+in+Training+%F0%9F%9A%80;SLIIT+Undergraduate+%7C+ML+Researcher+%7C+System+Thinker" alt="Typing SVG" />
 </p>
 
 ---
 
 ```java
-// Student. Developer. Dreamer.
+// Welcome to Mission Control.
 class ChaminduSenadheera {
-    String role = "IT Undergraduate @ SLIIT | Intern Software Engineer";
-    String focus = "Java, Spring Boot, Docker, ML";
-    String research = "ML-based accident reduction system";
-    boolean lovesCode = true;
+    String currentRole = "Software Engineer – Java & Spring Boot";
+    String base = "Sri Lanka 🇱🇰";
+    String academy = "SLIIT | BSc (Hons) IT";
+    String mission = "Build scalable systems that think, learn, and adapt.";
+    String researchFocus = "ML for vehicle + road condition intelligence";
+    String future = "Architect. Innovator. Leader.";
 }
